@@ -1,0 +1,6 @@
+How many days are you going to travel? 10
+How much is an airline ticket? 1000000
+How much is a hotel price per day? 10000
+How much is a pocket money per day? 10000
+Total price for your trip is 1200000 KRW
+Your USD is 1000.00
